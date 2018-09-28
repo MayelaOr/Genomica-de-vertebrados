@@ -1,6 +1,7 @@
 # Genomica-de-vertebrados
 Laboratorio 12 de Langebio  
 ![GitHub Logo](Salamandra.jpg)  
+
 Este fue mi script para crear carpetas
 # Este script me hara carpetas para una lista
 # La lista será la variable $1
